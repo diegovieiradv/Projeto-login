@@ -2,7 +2,7 @@
 
 @media screen and (min-width:481px) and (max-width:768px){
     body{
-        background-image: linear-gradient(rgb(206, 64, 64), rgb(212, 191, 163));
+        background-image: linear-gradient(rgb(206, 64, 64),rgb(240, 210, 171) );
     }
     section#login{
         width: 80vw;
@@ -19,7 +19,7 @@ section#login > div#formulario{
 }
 @media screen and (min-width:769px){
     body{
-        background-image: linear-gradient(rgb(206, 64, 64), rgb(212, 191, 163));  
+        background-image: linear-gradient(rgb(206, 64, 64), rgb(240, 210, 171));  
     }
     section#login{
         width: 950px;
