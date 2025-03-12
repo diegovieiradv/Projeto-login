@@ -28,6 +28,9 @@ section#login{
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.582);
+
+    transition: width 0.3s, heigth 0.3s;
+    transition-timing-function: ease;
 }
 section#login> div#imagem{
     background: rgb(206, 64, 64) url(../imagens/pexels-yendy-shen-909628605-20396075\ \(1\).jpg) no-repeat;
