@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (min-width:481px) and (max-width:550px){
+@media screen and (min-width:768px) and (max-width:992px){
     body{
         background-image: linear-gradient(rgb(206, 64, 64),rgb(240, 210, 171) );
     }
@@ -17,7 +17,7 @@ section#login > div#formulario{
     width: 70%;
 }
 }
-@media screen and (min-width:551px){
+@media screen and (min-width:992px){
     body{
         background-image: linear-gradient(rgb(206, 64, 64), rgb(240, 210, 171));  
     }
