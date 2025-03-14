@@ -24,7 +24,7 @@ section#login{
     overflow: hidden;
 
     background-color: white;
-    width: 250px;
+    width: 300px;
     height: 550px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.582);
@@ -60,7 +60,9 @@ form > div#campo{
 }
 form label{
     display: none;
+
 }
+
 
 form > input[type=submit]{
     display: block;

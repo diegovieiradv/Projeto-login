@@ -6,6 +6,7 @@
     }
     section#login{
         width: 80vw;
+        height:50vh;
     }
 section#login > div#imagem{
     float: left;
@@ -22,7 +23,8 @@ section#login > div#formulario{
         background-image: linear-gradient(rgb(206, 64, 64), rgb(240, 210, 171));  
     }
     section#login{
-        width: 700px;
+        width: 800px;
+        
     }
     section#login > div#imagem{
         float: right;
