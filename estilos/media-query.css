@@ -22,7 +22,7 @@ section#login > div#formulario{
         background-image: linear-gradient(rgb(206, 64, 64), rgb(240, 210, 171));  
     }
     section#login{
-        width: 850px;
+        width: 700px;
     }
     section#login > div#imagem{
         float: right;
